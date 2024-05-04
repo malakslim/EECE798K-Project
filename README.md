@@ -18,5 +18,7 @@ In the folder "Data_with_estimated_trqs_CSV_form", five more columns are present
 
 <img src="https://github.com/malakslim/EECE798K-Project/blob/main/test_traj1_all_models.png" alt="Alt Text" style="width: 50%;">
 <img src="https://github.com/malakslim/EECE798K-Project/blob/main/test_traj2_all_models.png" alt="Alt Text" style="width: 50%;">
+<img src="https://github.com/malakslim/EECE798K-Project/blob/main/MSE_after_filtering.png" alt="Alt Text" style="width: 50%;">
+
 
 
