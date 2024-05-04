@@ -12,7 +12,7 @@ Each CSV file contain a set of columns, each representing a variable, whose valu
 
 In the folder "Data_with_estimated_trqs_CSV_form", five more columns are presented in each CSV file. These columns correspond to the estimated torques of the five joints using Kinematics Dynamics Library (KDL) based on the KUKA youBot URDF file, which were used with the Hybrid model.
 
-## Training and Testing the models
+## Running the models
 The repository contains four notebooks, which were run on Google Colab.
 - `FCNN.ipynb` runs the Fully Connected Neural Network (FCNN) model using TensorFlow.
 - `LSTM.ipynb` runs the Long Short Term Memory (LSTM) model using TensorFlow.
