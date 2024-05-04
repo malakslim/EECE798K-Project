@@ -16,3 +16,5 @@ In the folder "Data_with_estimated_trqs_CSV_form", five more columns are present
 
 ## Results
 ![Test](https://github.com/malakslim/EECE798K-Project/blob/main/test_traj1_all_models.png)
+![Test](https://github.com/malakslim/EECE798K-Project/blob/main/test_traj2_all_models.png)
+
