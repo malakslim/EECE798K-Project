@@ -14,10 +14,10 @@ In the folder "Data_with_estimated_trqs_CSV_form", five more columns are present
 
 ## Training and Testing the models
 The repository contains four notebooks, which were run on Google Colab.
-- `FCNN.ipynb` runs the Fully Connected Neural Network (FCNN) model
-- `LSTM.ipynb` runs the Long Short Term Memory (LSTM) model
-- `SINDy.ipynb` runs the Sparse Identification of Non-linear Dynamical Systems (SINDy) model
-- `Hybrid.ipynb` runs the Hybrid model, which is based on a FCNN architecture
+- `FCNN.ipynb` runs the Fully Connected Neural Network (FCNN) model using TensorFlow.
+- `LSTM.ipynb` runs the Long Short Term Memory (LSTM) model using TensorFlow.
+- `SINDy.ipynb` runs the Sparse Identification of Non-linear Dynamical Systems (SINDy) model using PySINDy.
+- `Hybrid.ipynb` runs the Hybrid model, which is based on a FCNN architecture, using TensorFlow.
   
 Each notebook provides comprehensive details on data preprocessing, model training, and evaluation specific to its corresponding model.
 
