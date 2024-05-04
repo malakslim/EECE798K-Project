@@ -4,7 +4,7 @@ Data-Driven Modeling of 5-Dof KUKA youBot Robotic Manipulator
 ## Abstract
 
 ## Dataset
-The dataset can be found in the folder "Data". It contains two folders, "Data in CSV form" used with FCNN, LSTM, and SINDy models, and "Data_with_estimated_trqs_CSV_form" used with the Hybrid model. 
+The dataset can be found in the folder "Data". It contains two subfolders, "Data in CSV form" used with FCNN, LSTM, and SINDy models, and "Data_with_estimated_trqs_CSV_form" used with the Hybrid model. 
 
 Within each folder, there are 12 CSV files, each corresponding to a distinct trajectory.
 
