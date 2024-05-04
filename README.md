@@ -22,6 +22,7 @@ Predicted and true torque of the five joints across the four models on the secon
 <img src="https://github.com/malakslim/EECE798K-Project/blob/main/test_traj2_all_models.png" style="width: 50%;">
 
 MSE obtained after filtering the data across the four models:
+
 <img src="https://github.com/malakslim/EECE798K-Project/blob/main/MSE_after_filtering.png" style="width: 50%;">
 
 
