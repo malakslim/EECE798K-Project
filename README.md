@@ -38,5 +38,6 @@ MSE obtained after filtering the data across the four models:
 
 <img src="https://github.com/malakslim/EECE798K-Project/blob/main/MSE_after_filtering.png" style="width: 50%;">
 
+### For any further details, please refer to the report [Link to PDF report](https://github.com/malakslim/EECE798K-Project/blob/main/Report.pdf)
 
 
